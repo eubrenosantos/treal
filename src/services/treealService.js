@@ -113,7 +113,7 @@ class TreealService {
           amount: paymentData.amount
         },
         priority: "HIGH",
-        creditorDocument: paymentData.document,
+        // creditorDocument: paymentData.document,
         pixKey: paymentData.pixKey
       };
 
